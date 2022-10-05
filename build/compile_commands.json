@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/caitlingraves/ma1_Caitlin-Graves/build",
+  "command": "/usr/bin/clang++    -Wall -g -o CMakeFiles/MA1.dir/main.cpp.o -c /home/caitlingraves/ma1_Caitlin-Graves/main.cpp",
+  "file": "/home/caitlingraves/ma1_Caitlin-Graves/main.cpp"
+},
+{
+  "directory": "/home/caitlingraves/ma1_Caitlin-Graves/build",
+  "command": "/usr/bin/clang++    -Wall -g -o CMakeFiles/MA1.dir/testQueue.cpp.o -c /home/caitlingraves/ma1_Caitlin-Graves/testQueue.cpp",
+  "file": "/home/caitlingraves/ma1_Caitlin-Graves/testQueue.cpp"
+}
+]
